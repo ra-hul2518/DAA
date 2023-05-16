@@ -6,6 +6,7 @@ int main()
 {
     int size;int l=0;int flag =0;int key;int mid;int comp=0;
     cout<<"enter size of the array"<<endl;
+    cout<<"enter"<<endl;
     cin>>size;
 
 
